@@ -1,7 +1,9 @@
 //
 // Created by zwp18 on 2022/5/17.
 //
-
+/*
+ * 线性栈
+ */
 
 
 #include "LinkStack.h"

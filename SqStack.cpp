@@ -1,7 +1,9 @@
 //
 // Created by zwp18 on 2022/5/17.
 //
-
+/*
+ * 顺序栈
+ */
 #include "SqStack.h"
 
 void InitStack(SqStack &S){//初始化栈
